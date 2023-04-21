@@ -26,7 +26,7 @@ Googleアカウントを持っていない学生は，授業までに取得し�
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | 04/12 | ガイダンス |  |  |  |
 | 2 | 04/19 | 機械学習の概要 & はじめての機械学習 | [Speaker Deck](https://speakerdeck.com/trycycle/tetamaininkutoji-jie-xue-xi-2022-di-1hui-20220413) | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2023/blob/main/notebook/introduction-to-ml.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2023/blob/main/notebook/clean/introduction-to-ml.ipynb) |
-| 2 | 04/26 | 演習: 決定木 |  | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2023/blob/main/notebook/introduction-to-ml.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2023/blob/main/notebook/clean/introduction-to-ml.ipynb) |
+| 3 | 04/26 | 演習: 決定木（右のURLのサンプルコードを動かしながら，演習問題を解いてください） |  | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2023/blob/main/notebook/introduction-to-ml.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2023/blob/main/notebook/clean/introduction-to-ml.ipynb) |
 
 
 <!-- ## レポート課題
