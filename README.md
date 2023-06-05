@@ -31,12 +31,13 @@ Googleアカウントを持っていない学生は，授業までに取得し�
 | 5 | 05/17 | クラスタリング2：密度ベースクラスタリング & クラスタリングの実用上の問題 | [Speaker Deck](https://speakerdeck.com/trycycle/detamainingutoji-jie-xue-xi-kurasutaringu2) | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2023/blob/main/notebook/dbscan-and-others.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2023/blob/main/notebook/clean/dbscan-and-others.ipynb) |
 | 6 | 05/24 | 分類1：K近傍法 & 教師あり機械学習のお作法 | [Speaker Deck](https://speakerdeck.com/trycycle/tetamaininkutoji-jie-xue-xi-kjin-bang-fa-and-ji-jie-xue-xi-noozuo-fa) | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2023/blob/main/notebook/knn-and-ml-ops.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2023/blob/main/notebook/clean/knn-and-ml-ops.ipynb) |
 | 7 | 05/31 | 分類2：サポートベクターマシン | [Speaker Deck](https://speakerdeck.com/trycycle/tetamaininkutoji-jie-xue-xi-svm) | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2023/blob/main/notebook/svm.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2023/blob/main/notebook/clean/svm.ipynb) |
+| 8 | 06/07 | 分類3：ニューラルネットワーク入門 | [Speaker Deck](https://speakerdeck.com/trycycle/tetamaininkutoji-jie-xue-xi-niyurarunetutowaku) | [nbviewer](https://nbviewer.jupyter.org/github/hontolab-courses/dmml-2023/blob/main/notebook/neural-network.ipynb) | [Google Colab](https://colab.research.google.com/github/hontolab-courses/dmml-2023/blob/main/notebook/clean/neural-network.ipynb) |
 
-<!-- ## レポート課題
-課題内容は，[こちらのページ](https://nbviewer.org/github/hontolab-courses/dmml-2022/blob/main/notebook/assignment.ipynb)に記載．
+## レポート課題
+課題内容は，[こちらのページ](https://nbviewer.org/github/hontolab-courses/dmml-2023/blob/main/notebook/assignment.ipynb)に記載．
 
-* 締め切り：2022年7月1日（金）
+* 締め切り：2023年7月7日（金）
 * 提出先：学務情報システム
 * 提出形式
-	* [こちらで指定したテンプレートファイル（Wordファイル）](https://github.com/hontolab-courses/dmml-2022/raw/main/report-template.docx)をレポートを作成すること．指定したテンプレート以外を用いた場合は，採点対象としない．
-	* 提出時にはWordファイルをPDFファイルに変換すること -->
+	* [こちらで指定したテンプレートファイル（Wordファイル）](https://github.com/hontolab-courses/dmml-2023/raw/main/report-template.docx)をレポートを作成すること．指定したテンプレート以外を用いた場合は，採点対象としない．
+	* 提出時にはWordファイルをPDFファイルに変換すること
